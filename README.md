@@ -24,6 +24,11 @@ Recently, I completed a Fullstack Development Bootcamp at <a href="https://www.m
 ### My Portfolio:
 Live demo:<a href="https://spend-smart-app.vercel.app/login"> Spend Smart App </a>
 
+<p>
+<img src="expense-manager-homepage.png" style="width: 300px; height: 400px;">
+<img src="expense-manager-incomes.png" style="width: 300px; height: 400px;">
+<img src="expense-manager-detailpage.png" style="width: 300px; height: 400px;">
+</p>
 
 ## Contact me
 Scrolled through my portfolio? Enjoyed it? Great!
