@@ -30,38 +30,38 @@ In this application, you can create multiple incomes and expenses across a wide 
 <img src="expense-manager-homepage" style="width: 300px; height: 400px;">
 
 
-## Tech Stack
+### Tech Stack
 The project uses a combination of technologies for an optimized and user-friendly experience.
 
 - **Frontend:** React (for building user interface), Next.js (for server-side rendering)
 - **Backend:** Express.js (for handling requests, routing, and APIs), Node.js (runtime environment)
 - **Database:** SQLite with Prisma ORM (Object-Relational Mapping)
-- **Visualizations:** Recharts library for visualization line, pie, and bar charts
+- **Visualizations:** <a href="https://www.npmjs.com/package/recharts" >Recharts</a> library for visualization line, pie, and bar charts
 
-## Features
-### Incomes and Expenses
+### Features
+#### Incomes and Expenses
 - Create numerous income and expenses entries
 - Create new categories for incomes and expenses
 - Add incomes and expenses according to created categories
 - Create individual accounts
 - Show balance for every account independently
 
-### Data Visualization
+#### Data Visualization
 - Visualize incomes and expenses in Bar and Pie Charts
 - A detailed view of each income and expense entry
 - Apply filters to entries based on the date
 
-<img src="expense-manager-incomes" style="width: 300px; height: 400px;">
+<!--- <img src="expense-manager-incomes" style="width: 300px; height: 400px;"> --->
 
 
-### Details Page for expense/income
+#### Details Page for expense/income
 - Line chart based on the income or expense over time
 - Access comprehensive information about each income or expense
-- 
-<img src="expense-manager-detailpage" style="width: 300px; height: 400px;"> 
+  
+<!--- <img src="expense-manager-detailpage" style="width: 300px; height: 400px;"> ---> 
 
 
-### Customizability 
+#### Customizability 
 - Switch between different theme colors (Red, Green, Purple & Blue)
 - Opt for a dark theme for enhanced usability in low-light conditions
 
@@ -71,7 +71,7 @@ The project is open-source and contributions are always welcomed.
 Live demo:<a href="https://spend-smart-app.vercel.app/login"> Spend Smart App </a>
 
 
-## Contact me
+### Contact me
 Scrolled through my portfolio? Enjoyed it? Great!
 Now, drop me an email or find me on LinkedIn.
 
