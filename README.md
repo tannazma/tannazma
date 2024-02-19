@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Tannaz! 👋
+
+I'm an Astronomical Physics graduate from Iran who found passion in the world of web development and digital marketing. With my love for learning new trends on Instagram and work experience as an SEO Specialist in multiple industries in Iran and Armenia, I decided to steer my career into technology. 
+
+Recently, I completed a Fullstack Development Bootcamp at Mindmingle, Utrecht, focusing on Javascript, Typescript, Nodejs, React, and Express. We also dwelled into Prisma for database management, and used Tailwind and ShadCN for styling, making our way around the Zod library for form validation.
+
+Currently, I'm chasing growth, learning from my mistakes and looking for opportunities to use this valuable skillset. From SEO specialism to Full Stack Development, I'm here to make a difference! 
+         
 
 <!--
 **tannazma/tannazma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
