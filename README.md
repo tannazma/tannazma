@@ -26,8 +26,8 @@ Live demo:<a href="https://spend-smart-app.vercel.app/login"> Spend Smart App </
 
 <p>
 <img src="expense-manager-homepage" style="width: 300px; height: 400px;">
-<img src="expense-manager-incomes" style="width: 300px; height: 400px;">
-<img src="expense-manager-detailpage" style="width: 300px; height: 400px;">
+<!-- <img src="expense-manager-incomes" style="width: 300px; height: 400px;">
+<img src="expense-manager-detailpage" style="width: 300px; height: 400px;"> -->
 </p>
 
 ## Contact me
